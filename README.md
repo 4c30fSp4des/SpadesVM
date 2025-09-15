@@ -18,9 +18,11 @@
 
 it's very easy and simple to install, there is a pseudo-graphical installer.
 
-~~First spinup a new codespace https://github.com/codespaces/new~~
+First spinup a new codespace https://github.com/codespaces/new
 
-~~To install just copy and paste this command in your codespace terminal~~
+To install just copy and paste this command in your codespace terminal
 ```
-echo AceOfSpades is still working on this one ;-;
+curl -O https://raw.githubusercontent.com/4c30fSp4des/SpadesVM/main/install.sh
+chmod +x install.sh
+./install.sh
 ```
