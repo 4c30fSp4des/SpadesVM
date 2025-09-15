@@ -12,11 +12,11 @@ def savejson(json):
 #####################
 
 Head="""
-# DesktopOnCodespaces Installer
+# SpadesVM Installer
 
-> DesktopOnCodespaces Allow you to run grapical linux and windows apps in your codespace for free.
+> SpadesVM Allow you to run grapical linux and windows apps in your codespace for free.
 
-It Actually Have
+It has
 * Windows App Support (using wine)
 * Audio Support
 * Root Access
@@ -27,7 +27,7 @@ It Actually Have
 
 """
 InstallHead="""
-# DesktopOnCodespaces Installer
+# SpadesVM Installer
 """     
 
 LINES = ["KDE Plasma (Heavy)", "XFCE4 (Lightweight)", "I3 (Very Lightweight)"]
